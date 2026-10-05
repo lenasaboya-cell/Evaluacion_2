@@ -77,10 +77,8 @@ if 'df' not in st.session_state:
 # ==========================================
 if modulo == "1. Home (Presentación)":
     st.title("🧠 Teen Mental Health Analytics Dashboard")
+    st.image("Imagen DMC.png", width=100)
     st.markdown("---")
-    
-# 📸 Mostrar imagen principal si existe en el repositorio
-st.image("Imagen DMC.png", width=100)
     
     col1, col2 = st.columns([2, 1])
     
