@@ -8,7 +8,10 @@ El objetivo principal es identificar y visualizar patrones de relación entre lo
 ## 📌 Capturas de la aplicación
 - **Home**:
 <img width="678" height="371" alt="image" src="https://github.com/user-attachments/assets/f398d0e4-2c6f-4372-b346-c07364c101a8" />
-
+- **Carga del DataSet**:
+<img width="646" height="329" alt="image" src="https://github.com/user-attachments/assets/81b5f2ae-0304-4340-ad7e-b29a14cc0ef6" />
+- **Análisis EDA**:
+<img width="691" height="300" alt="image" src="https://github.com/user-attachments/assets/201accc2-0a88-4583-ba85-051c6cc5e94c" />
 
 ## 📋 Descripción de las variables:
 - **Age**: Edad del adolescente (rango entre 13 y 19 años).
