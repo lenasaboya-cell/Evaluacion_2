@@ -82,13 +82,7 @@ if modulo == "1. Home (Presentación)":
 # 📸 Mostrar imagen principal si existe en el repositorio
     imagen_nombre = "Imagen DMC.png"
     
-    if os.path.exists(imagen_nombre):
-        # use_container_width ajusta el tamaño de la imagen al ancho de la columna/pantalla
-        st.image(imagen_nombre, caption="DILIC Institute - Python for Analytics", use_container_width=True)
-    else:
-        st.warning(f"⚠️ No se encontró la imagen '{imagen_nombre}' en el directorio raíz. Asegúrate de subirla a GitHub.")
-
-    st.markdown("---")    
+        st.image(imagen_nombre, caption="DMC Institute - Python for Analytics", use_container_width=True)
     
     col1, col2 = st.columns([2, 1])
     
