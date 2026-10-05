@@ -271,6 +271,6 @@ elif modulo == "3. Análisis EDA":
             1. **Diferencial Significativo en Uso de Redes**: Los adolescentes categorizados con la etiqueta de depresión presentan un promedio de consumo diario de redes sociales de **6.72 horas**, frente a las **4.48 horas** del grupo sin la etiqueta.
             2. **Impacto en la Calidad de Sueño**: Se evidencia un déficit de descanso en el grupo categorizado con presencia de condición ($4.76$ horas/noche frente a $6.49$ horas/noche en el grupo estándar).
             3. **Agnosticismo de la Plataforma**: No existen variaciones estadísticamente relevantes en el indicador de bienestar según la plataforma utilizada (TikTok, Instagram o Ambos), lo que indica que el patrón de uso y tiempo es el factor preponderante y no la aplicación en sí.
-            4. **Estabilidad del Rendimiento Académico**: El promedio de GPA se mantiene estable (\(\approx 2.99\)) entre ambos grupos, demostrando que el rendimiento académico no es un predictor directo o aislado del bienestar emocional.
+            4. **Estabilidad del Rendimiento Académico**: El promedio de GPA se mantiene estable (approx 2.99) entre ambos grupos, demostrando que el rendimiento académico no es un predictor directo o aislado del bienestar emocional.
             5. **Distribución Demográfica Equitativa**: Las variables de género e interacción social muestran proporciones equivalentes en las distintas escalas de bienestar, descartando sesgos categóricos aislados.
             """)
