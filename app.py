@@ -213,13 +213,13 @@ elif modulo == "3. Análisis EDA":
             
             with col_num1:
                 fig_social, ax_s = plt.subplots(figsize=(6, 4))
-                sns.boxplot(data=df, x='depression_label', y='daily_social_media_hours', ax=ax_s, palette="Set1")
+                sns.boxplot(data=df, x='depression label', y='daily social media hours', ax=ax_s, palette="Set1")
                 ax_s.set_title("Uso de Redes por Etiqueta de Depresión")
                 st.pyplot(fig_social)
                 
             with col_num2:
                 fig_sleep, ax_sl = plt.subplots(figsize=(6, 4))
-                sns.boxplot(data=df, x='depression_label', y='sleep_hours', ax=ax_sl, palette="Set2")
+                sns.boxplot(data=df, x='depression label', y='sleep hours', ax=ax_sl, palette="Set2")
                 ax_sl.set_title("Horas de Sueño por Etiqueta de Depresión")
                 st.pyplot(fig_sleep)
 
