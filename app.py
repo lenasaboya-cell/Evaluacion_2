@@ -76,8 +76,8 @@ if 'df' not in st.session_state:
 # MÓDULO 1: HOME
 # ==========================================
 if modulo == "1. Home (Presentación)":
-    st.title("🧠 Teen Mental Health Analytics Dashboard")
     st.image("Imagen DMC.png", width=100)
+    st.title("🧠 Teen Mental Health Analytics Dashboard")
     st.markdown("---")
     
     col1, col2 = st.columns([2, 1])
@@ -100,9 +100,9 @@ if modulo == "1. Home (Presentación)":
     with col2:
         st.subheader("👤 Datos del Autor")
         st.markdown("""
-        **Estudiante:** Especialista en Analytics  
+        **Estudiante:** Lena Nicole Saboya Rivas  
         **Programa:** Especialización en Python for Analytics  
-        **Institución:** DILIC Institute  
+        **Institución:** DMC Institute  
         **Año:** 2026  
         """)
 
