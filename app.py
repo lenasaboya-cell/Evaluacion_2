@@ -80,9 +80,7 @@ if modulo == "1. Home (Presentación)":
     st.markdown("---")
     
 # 📸 Mostrar imagen principal si existe en el repositorio
-    imagen_nombre = "Imagen DMC.png"
-    
-        st.image(imagen_nombre, caption="DMC Institute - Python for Analytics", use_container_width=True)
+st.image("Imagen DMC.png", width=100)
     
     col1, col2 = st.columns([2, 1])
     
