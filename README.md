@@ -16,5 +16,6 @@ El objetivo principal es identificar y visualizar patrones de relación entre lo
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu_usuario/teen-mental-health-analytics.git](https://github.com/tu_usuario/teen-mental-health-analytics.git)
-   cd teen-mental-health-analytics
+   - Github: https://github.com/lenasaboya-cell/Evaluacion_2
+   - StreamLit: https://lenasaboya-dmc-eval-2.streamlit.app/
+   
