@@ -5,6 +5,13 @@ Este repositorio contiene una aplicación web interactiva desarrollada con **Str
 ## 📌 Descripción del Proyecto
 El objetivo principal es identificar y visualizar patrones de relación entre los hábitos digitales (horas en redes sociales, tiempo frente a la pantalla antes de dormir), descanso, interacción social y los niveles de bienestar percibidos en adolescentes de 13 a 19 años.
 
+## 📌 Descripción de las variables:
+- **Age**: Edad del adolescente (rango entre 13 y 19 años).
+- **Gender**: Género registrado (male, female).
+- **daily_social_media_hours**: Horas diarias dedicadas al uso de redes sociales.
+- **sleep_hours**: Horas promedio de sueño nocturno.
+- **screen_time_before_sleep**: Horas de uso de pantalla inmediatamente antes de dormir.
+
 ## 🛠️ Tecnologías Utilizadas
 - **Python 3.10+**
 - **Streamlit**: Construcción de la interfaz gráfica e interactiva.
@@ -14,7 +21,7 @@ El objetivo principal es identificar y visualizar patrones de relación entre lo
 
 ## 🚀 Instrucciones de Ejecución Local
 
-1. Clonar el repositorio:
+1. Ingresar a los siguientes Links:
    ```bash
    - Github: https://github.com/lenasaboya-cell/Evaluacion_2
    - StreamLit: https://lenasaboya-dmc-eval-2.streamlit.app/
