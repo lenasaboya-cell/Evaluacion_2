@@ -1,7 +1,12 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+
+# 1. Configurar backend para entorno web antes de importar pyplot
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 
 # Configuración de página
